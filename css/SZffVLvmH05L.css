@@ -2865,13 +2865,13 @@ textarea:focus::placeholder {
   font-size: 22px;
 }
 .bostami-parsonal-info-contact-item.phone i {
-  color: #e93b81;
+ color:#0f402d;
 }
 .bostami-parsonal-info-contact-item.email i {
-  color: #6ab5b9;
+  color:#0f402d;
 }
 .bostami-parsonal-info-contact-item.location i {
-  color: #fd7590;
+  color:#0f402d;
 }
 .bostami-parsonal-info-contact-item.calendar i {
   color: #c17ceb;
